@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ApplicationSMS</string>
+    <string name="message">Tapez le message</string>
+    <string name="numero">Entrez le numéro</string>
+    <string name="btnEnvoie">Envoyer</string>
+
+
+
+</resources>
